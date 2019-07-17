@@ -1,5 +1,6 @@
 import React from "react";
-
+import "./Display.scss"
 const Display = () => {
-  return <div>{/* Display any props data here */}</div>;
+  return <div className="display"><h1 className="displayText">0</h1></div>;
 };
+export default Display

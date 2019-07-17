@@ -1,0 +1,26 @@
+.numberButtons{
+
+// background-color: red;
+width: 80%;
+padding: 10px 10px;
+margin-top: -111%;
+margin-bottom: 40px;
+}
+.numbers:nth-child(-n+9){
+    font-size: 40px;
+    border-radius: 50%;
+    margin-right: 40px;
+    padding: 10px 20px;
+    margin-bottom: 40px;
+    }
+    .numbers:nth-child(10){
+        padding: 10px 80px;
+        font-size: 40px;
+        border-radius: 25px;
+    }
+    .numbers:nth-child(11){
+        padding: 10px 25px;
+        font-size: 40px;
+        border-radius: 50%;
+        margin-left: 25px;
+    }
